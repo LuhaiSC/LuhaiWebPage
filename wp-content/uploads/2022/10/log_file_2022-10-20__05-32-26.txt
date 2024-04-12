@@ -1,0 +1,19 @@
+
+---Downloaded files---
+The import files for: Import Demo Data were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://aduanalesluhai.com.mx
+Data file = /var/www/wp-content/uploads/2022/10/demo-content-import-file_2022-10-20__05-32-26.xml
+Widget file = /var/www/wp-content/uploads/2022/10/demo-widgets-import-file_2022-10-20__05-32-26.json
+Customizer file = /var/www/wp-content/uploads/2022/10/demo-customizer-import-file_2022-10-20__05-32-26.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "img_our_09_OurTeam-PRAQZ8V" (Media)
+

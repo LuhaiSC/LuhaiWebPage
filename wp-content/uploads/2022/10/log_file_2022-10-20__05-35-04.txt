@@ -1,0 +1,37 @@
+
+---Downloaded files---
+The import files for: Import Demo Data were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://aduanalesluhai.com.mx
+Data file = /var/www/wp-content/uploads/2022/10/demo-content-import-file_2022-10-20__05-35-04.xml
+Widget file = /var/www/wp-content/uploads/2022/10/demo-widgets-import-file_2022-10-20__05-35-04.json
+Customizer file = /var/www/wp-content/uploads/2022/10/demo-customizer-import-file_2022-10-20__05-35-04.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Themesflat - Categories - All Categories - Imported
+TFL Recent Comments - RECENT COMMENTS - Imported
+Block - No Title - Imported
+Themesflat - Recent Post - RECENT BLOG - Imported
+
+Blog Single Sidebar : 
+
+Themesflat - Author Box - No Title - Imported
+Block - No Title - Imported
+Themesflat - Categories - CATEGORIES - Imported
+Themesflat - Recent Post - RECENT POST - Imported
+
+Portfolios Sidebar : 
+
+Themesflat - Author Box - No Title - Imported
+Block - No Title - Imported
+Themesflat - Portfolio Categories - CATEGORIES - Imported
+
+
